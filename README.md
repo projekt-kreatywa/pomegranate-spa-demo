@@ -2,7 +2,9 @@
 
 pomegranate-splash-priv-README
 
-simple splash page for pomegranate.co.uk web app with "subscribe to updates" service.
+https://twitter.com/pomegranateuk
+
+simple splash page for http://www.pomegranateuk.co/ web app with "subscribe to updates" service.
 
 client-demo for difference between SPA and standard wordpress site at [pomegranate.projekt-kreatywa.com]
 
