@@ -1,4 +1,4 @@
-# PomegranateSpaDemo000
+# Pomegranate-Spa-Demo-000
 
 pomegranate-splash-priv-README
 
