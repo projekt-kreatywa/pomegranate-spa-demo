@@ -8,8 +8,18 @@ client-demo for difference between SPA and standard wordpress site at [pomegrana
 
 pomegranate-spa-demo
 
-angular 2
-...
+
+featuring all that stuff that comes with every [angular-cli](https://cli.angular.io/) `ng new ...` comand:
+
+- [typescript](https://www.typescriptlang.org/) and
+- [webpack](https://webpack.github.io/). already mentioned
+- [foundation](http://foundation.zurb.com/sites.html) and
+- [scss](http://sass-lang.com/). baked in tests by:
+- [jasmine](https://jasmine.github.io/),
+- [karma](https://karma-runner.github.io/1.0/index.html),
+- [istanbul](https://istanbul.js.org/) for coverage and 
+- [protractor](http://www.protractortest.org/#) for e2e tests and
+- loads of other stuff. check out [package.json](https://github.com/rafszul/rafszul-ng2/blob/master/package.json) to get the idea about all that's in.
 
 ---
 
