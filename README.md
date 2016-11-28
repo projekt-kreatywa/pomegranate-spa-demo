@@ -1,5 +1,18 @@
 # PomegranateSpaDemo000
 
+pomegranate-splash-priv-README
+
+simple splash page for pomegranate.co.uk web app with "subscribe to updates" service.
+
+client-demo for difference between SPA and standard wordpress site at [pomegranate.projekt-kreatywa.com]
+
+pomegranate-spa-demo
+
+angular 2
+...
+
+---
+
 This project was generated with [angular-cli](https://github.com/angular/angular-cli) version 1.0.0-beta.19-3.
 
 ## Development server
